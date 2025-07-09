@@ -1,4 +1,4 @@
-# Lesson 5: Debugging with Cursor
+# Debugging with Cursor
 
 ## Overview
 This lesson demonstrates how to effectively debug Python code using Cursor. You'll learn to identify common errors and fix them systematically.
